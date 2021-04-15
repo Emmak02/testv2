@@ -1,0 +1,2 @@
+#it begins
+print("code!")
